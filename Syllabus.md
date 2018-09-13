@@ -54,7 +54,7 @@ Courses will have documentation accompanying long term project work. These proje
 
 This is aligned and modeled from industry and is aligned with IB Design expectations.
 
-![alt text](cheky.png "yes") I understand
+![alt text](checky.png "yes") I understand
 
 ### Grading:
 Design and Tech places a higher grade percentages on what you do everyday, as opposed to on just a single day when you might have a test or project due.
